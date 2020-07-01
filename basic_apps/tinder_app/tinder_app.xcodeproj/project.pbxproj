@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4DBB6D8C24AD4305007BFA81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBB6D8B24AD4305007BFA81 /* AppDelegate.swift */; };
-		4DBB6D8E24AD4305007BFA81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBB6D8D24AD4305007BFA81 /* SceneDelegate.swift */; };
-		4DBB6D9024AD4305007BFA81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBB6D8F24AD4305007BFA81 /* ViewController.swift */; };
-		4DBB6D9324AD4305007BFA81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DBB6D9124AD4305007BFA81 /* Main.storyboard */; };
-		4DBB6D9524AD4307007BFA81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DBB6D9424AD4307007BFA81 /* Assets.xcassets */; };
-		4DBB6D9824AD4307007BFA81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DBB6D9624AD4307007BFA81 /* LaunchScreen.storyboard */; };
+		4DBB6DCC24AD43ED007BFA81 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBB6DCB24AD43ED007BFA81 /* AppDelegate.swift */; };
+		4DBB6DCE24AD43ED007BFA81 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBB6DCD24AD43ED007BFA81 /* SceneDelegate.swift */; };
+		4DBB6DD024AD43ED007BFA81 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBB6DCF24AD43ED007BFA81 /* ViewController.swift */; };
+		4DBB6DD324AD43ED007BFA81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DBB6DD124AD43ED007BFA81 /* Main.storyboard */; };
+		4DBB6DD524AD43EE007BFA81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DBB6DD424AD43EE007BFA81 /* Assets.xcassets */; };
+		4DBB6DD824AD43EE007BFA81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DBB6DD624AD43EE007BFA81 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4DBB6D8824AD4305007BFA81 /* Filmes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Filmes.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		4DBB6D8B24AD4305007BFA81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4DBB6D8D24AD4305007BFA81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4DBB6D8F24AD4305007BFA81 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4DBB6D9224AD4305007BFA81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4DBB6D9424AD4307007BFA81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4DBB6D9724AD4307007BFA81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4DBB6D9924AD4307007BFA81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DBB6DC824AD43ED007BFA81 /* Tinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4DBB6DCB24AD43ED007BFA81 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4DBB6DCD24AD43ED007BFA81 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4DBB6DCF24AD43ED007BFA81 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4DBB6DD224AD43ED007BFA81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4DBB6DD424AD43EE007BFA81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4DBB6DD724AD43EE007BFA81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4DBB6DD924AD43EE007BFA81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4DBB6D8524AD4305007BFA81 /* Frameworks */ = {
+		4DBB6DC524AD43ED007BFA81 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4DBB6D7F24AD4305007BFA81 = {
+		4DBB6DBF24AD43ED007BFA81 = {
 			isa = PBXGroup;
 			children = (
-				4DBB6D8A24AD4305007BFA81 /* movie_app */,
-				4DBB6D8924AD4305007BFA81 /* Products */,
+				4DBB6DCA24AD43ED007BFA81 /* tinder_app */,
+				4DBB6DC924AD43ED007BFA81 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4DBB6D8924AD4305007BFA81 /* Products */ = {
+		4DBB6DC924AD43ED007BFA81 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4DBB6D8824AD4305007BFA81 /* Filmes.app */,
+				4DBB6DC824AD43ED007BFA81 /* Tinder.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4DBB6D8A24AD4305007BFA81 /* movie_app */ = {
+		4DBB6DCA24AD43ED007BFA81 /* tinder_app */ = {
 			isa = PBXGroup;
 			children = (
-				4DBB6D8B24AD4305007BFA81 /* AppDelegate.swift */,
-				4DBB6D8D24AD4305007BFA81 /* SceneDelegate.swift */,
-				4DBB6D8F24AD4305007BFA81 /* ViewController.swift */,
-				4DBB6D9124AD4305007BFA81 /* Main.storyboard */,
-				4DBB6D9424AD4307007BFA81 /* Assets.xcassets */,
-				4DBB6D9624AD4307007BFA81 /* LaunchScreen.storyboard */,
-				4DBB6D9924AD4307007BFA81 /* Info.plist */,
+				4DBB6DCB24AD43ED007BFA81 /* AppDelegate.swift */,
+				4DBB6DCD24AD43ED007BFA81 /* SceneDelegate.swift */,
+				4DBB6DCF24AD43ED007BFA81 /* ViewController.swift */,
+				4DBB6DD124AD43ED007BFA81 /* Main.storyboard */,
+				4DBB6DD424AD43EE007BFA81 /* Assets.xcassets */,
+				4DBB6DD624AD43EE007BFA81 /* LaunchScreen.storyboard */,
+				4DBB6DD924AD43EE007BFA81 /* Info.plist */,
 			);
-			path = movie_app;
+			path = tinder_app;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4DBB6D8724AD4305007BFA81 /* movie_app */ = {
+		4DBB6DC724AD43ED007BFA81 /* tinder_app */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4DBB6D9C24AD4307007BFA81 /* Build configuration list for PBXNativeTarget "movie_app" */;
+			buildConfigurationList = 4DBB6DDC24AD43EE007BFA81 /* Build configuration list for PBXNativeTarget "tinder_app" */;
 			buildPhases = (
-				4DBB6D8424AD4305007BFA81 /* Sources */,
-				4DBB6D8524AD4305007BFA81 /* Frameworks */,
-				4DBB6D8624AD4305007BFA81 /* Resources */,
+				4DBB6DC424AD43ED007BFA81 /* Sources */,
+				4DBB6DC524AD43ED007BFA81 /* Frameworks */,
+				4DBB6DC624AD43ED007BFA81 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = movie_app;
-			productName = movie_app;
-			productReference = 4DBB6D8824AD4305007BFA81 /* Filmes.app */;
+			name = tinder_app;
+			productName = tinder_app;
+			productReference = 4DBB6DC824AD43ED007BFA81 /* Tinder.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4DBB6D8024AD4305007BFA81 /* Project object */ = {
+		4DBB6DC024AD43ED007BFA81 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
 				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = "Lucas Geek";
 				TargetAttributes = {
-					4DBB6D8724AD4305007BFA81 = {
+					4DBB6DC724AD43ED007BFA81 = {
 						CreatedOnToolsVersion = 11.5;
 					};
 				};
 			};
-			buildConfigurationList = 4DBB6D8324AD4305007BFA81 /* Build configuration list for PBXProject "movie_app" */;
+			buildConfigurationList = 4DBB6DC324AD43ED007BFA81 /* Build configuration list for PBXProject "tinder_app" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 4DBB6D7F24AD4305007BFA81;
-			productRefGroup = 4DBB6D8924AD4305007BFA81 /* Products */;
+			mainGroup = 4DBB6DBF24AD43ED007BFA81;
+			productRefGroup = 4DBB6DC924AD43ED007BFA81 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4DBB6D8724AD4305007BFA81 /* movie_app */,
+				4DBB6DC724AD43ED007BFA81 /* tinder_app */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4DBB6D8624AD4305007BFA81 /* Resources */ = {
+		4DBB6DC624AD43ED007BFA81 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4DBB6D9824AD4307007BFA81 /* LaunchScreen.storyboard in Resources */,
-				4DBB6D9524AD4307007BFA81 /* Assets.xcassets in Resources */,
-				4DBB6D9324AD4305007BFA81 /* Main.storyboard in Resources */,
+				4DBB6DD824AD43EE007BFA81 /* LaunchScreen.storyboard in Resources */,
+				4DBB6DD524AD43EE007BFA81 /* Assets.xcassets in Resources */,
+				4DBB6DD324AD43ED007BFA81 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4DBB6D8424AD4305007BFA81 /* Sources */ = {
+		4DBB6DC424AD43ED007BFA81 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4DBB6D9024AD4305007BFA81 /* ViewController.swift in Sources */,
-				4DBB6D8C24AD4305007BFA81 /* AppDelegate.swift in Sources */,
-				4DBB6D8E24AD4305007BFA81 /* SceneDelegate.swift in Sources */,
+				4DBB6DD024AD43ED007BFA81 /* ViewController.swift in Sources */,
+				4DBB6DCC24AD43ED007BFA81 /* AppDelegate.swift in Sources */,
+				4DBB6DCE24AD43ED007BFA81 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4DBB6D9124AD4305007BFA81 /* Main.storyboard */ = {
+		4DBB6DD124AD43ED007BFA81 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4DBB6D9224AD4305007BFA81 /* Base */,
+				4DBB6DD224AD43ED007BFA81 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4DBB6D9624AD4307007BFA81 /* LaunchScreen.storyboard */ = {
+		4DBB6DD624AD43EE007BFA81 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4DBB6D9724AD4307007BFA81 /* Base */,
+				4DBB6DD724AD43EE007BFA81 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4DBB6D9A24AD4307007BFA81 /* Debug */ = {
+		4DBB6DDA24AD43EE007BFA81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		4DBB6D9B24AD4307007BFA81 /* Release */ = {
+		4DBB6DDB24AD43EE007BFA81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,37 +280,37 @@
 			};
 			name = Release;
 		};
-		4DBB6D9D24AD4307007BFA81 /* Debug */ = {
+		4DBB6DDD24AD43EE007BFA81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 24LJS48PUU;
-				INFOPLIST_FILE = movie_app/Info.plist;
+				INFOPLIST_FILE = tinder_app/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "br.com.lucasgeek.movie-app";
-				PRODUCT_NAME = Filmes;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.lucasgeek.tinder-app";
+				PRODUCT_NAME = Tinder;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4DBB6D9E24AD4307007BFA81 /* Release */ = {
+		4DBB6DDE24AD43EE007BFA81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 24LJS48PUU;
-				INFOPLIST_FILE = movie_app/Info.plist;
+				INFOPLIST_FILE = tinder_app/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "br.com.lucasgeek.movie-app";
-				PRODUCT_NAME = Filmes;
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.lucasgeek.tinder-app";
+				PRODUCT_NAME = Tinder;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4DBB6D8324AD4305007BFA81 /* Build configuration list for PBXProject "movie_app" */ = {
+		4DBB6DC324AD43ED007BFA81 /* Build configuration list for PBXProject "tinder_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4DBB6D9A24AD4307007BFA81 /* Debug */,
-				4DBB6D9B24AD4307007BFA81 /* Release */,
+				4DBB6DDA24AD43EE007BFA81 /* Debug */,
+				4DBB6DDB24AD43EE007BFA81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4DBB6D9C24AD4307007BFA81 /* Build configuration list for PBXNativeTarget "movie_app" */ = {
+		4DBB6DDC24AD43EE007BFA81 /* Build configuration list for PBXNativeTarget "tinder_app" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4DBB6D9D24AD4307007BFA81 /* Debug */,
-				4DBB6D9E24AD4307007BFA81 /* Release */,
+				4DBB6DDD24AD43EE007BFA81 /* Debug */,
+				4DBB6DDE24AD43EE007BFA81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4DBB6D8024AD4305007BFA81 /* Project object */;
+	rootObject = 4DBB6DC024AD43ED007BFA81 /* Project object */;
 }
